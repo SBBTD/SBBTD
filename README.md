@@ -1,6 +1,10 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=sbbtd&show_icons=true&theme=buefy)
+
+You are the ![](https://count.getloli.com/get/@sbbtd.github.readme)th visitor!!!
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sbbtd&langs_count=9&line_height=35&theme=buefy&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=sbbtd&show_icons=true&theme=buefy)
 
 <!--
 **SBBTD/SBBTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
